@@ -11,7 +11,7 @@ Introduction
 1.4. Synchronization
 1.5. Naming
 
-2. Structure of Distributed File Systems
+2. Structure of Distributed File Systemss
 2.1 Server-Client based structures
 2.2 Cluster-based architecture
 2.3 Symmetric architecture
