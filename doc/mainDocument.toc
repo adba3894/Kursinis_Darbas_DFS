@@ -1,0 +1,38 @@
+\babel@toc {english}{}
+\contentsline {section}{Abstract}{3}{section*.2}
+\contentsline {section}{Santrauka}{4}{section*.3}
+\contentsline {section}{\nameref {sec:keywords}}{5}{section*.4}
+\contentsline {section}{\nameref {sec:intro}}{6}{section*.5}
+\contentsline {section}{\numberline {1}Distributed File Systems}{6}{section.1}
+\contentsline {subsection}{\numberline {1.1}Fault tolerance}{6}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Transparency}{7}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Replication}{7}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Synchronization}{7}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Naming}{7}{subsection.1.5}
+\contentsline {section}{\numberline {2}Structure of Distributed File System}{8}{section.2}
+\contentsline {subsection}{\numberline {2.1}Server-Client based structures}{8}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Cluster-based architecture}{8}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Symmetric architecture}{9}{subsection.2.3}
+\contentsline {section}{\numberline {3}Introduction to Interplanetary File System}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Developers of IPFS}{10}{subsection.3.1}
+\contentsline {section}{\numberline {4}Definitions}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}Data Addressing}{10}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}HTTP data addressing}{10}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}IPFS data addressing}{11}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}Multiformats}{11}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Multihash}{11}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Multiaddr}{12}{subsubsection.4.2.2}
+\contentsline {section}{\numberline {5}Mostly used IPFS commands in Linux terminal}{13}{section.5}
+\contentsline {section}{\numberline {6}IPFS-Architecture}{14}{section.6}
+\contentsline {subsection}{\numberline {6.1}Identities}{14}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Communication between Nodes}{14}{subsubsection.6.1.1}
+\contentsline {subsection}{\numberline {6.2}libp2p - PeerToPeer library}{14}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}Network}{14}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Routing}{14}{subsubsection.6.2.2}
+\contentsline {subsubsection}{\numberline {6.2.3}Exchange}{16}{subsubsection.6.2.3}
+\contentsline {section}{\numberline {7}Related work}{16}{section.7}
+\contentsline {subsection}{\numberline {7.1}Download Experiment}{16}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Results of Download Experiment}{19}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Upload Experiment}{19}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Results of Upload Experiment}{21}{subsection.7.4}
+\contentsline {section}{\nameref {sec:conclu}}{22}{section*.11}

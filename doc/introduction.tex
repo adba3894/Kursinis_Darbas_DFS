@@ -1,0 +1,17 @@
+\tab{In} the 1980s people who wanted to share data between physical machines did it slowly and uncomfortably. A method that has been used for that is known as „Sneakernet“. This is a slang term based on transferring of data and files between physical machines through devices like flash drives, hard drives, optical disks, which were physically transported between machines on foot. It was very inefficient and time consuming ~\cite{fleishman2009take}. As response to this situation, FTP system were developed for that and became popular very fast. FTP made the situation much easier, it was also far from comfortable, data still had to be replicated twice: first from the computer to the server, then from the server to the target computer ~\cite{eriksen2005comparison}. J. C. R. Licklider in 1962 has generated an idea to create a network, where all computers are able to exchange data between each other. His idea was remembered. His idea is a possible functionality of Distributed File System ~\cite{licklider1968memoriam}.
+
+Distributed File System is a file-service system that helps to manage data files across multiple nodes or more precisely computers. The main difference between File System and Distributed File System is that on File System data is stored locally, on Distributed File System instead of storing data on a single machine, data is stored on the clusters which is a band of computers connected to each other. If you try to use data from anyone from the machines of the cluster, it will be like a data is stored on the machine you use ~\cite{ponnavaikko2009edge}.
+
+After solving problem of inconvenient data transfer, the next stage is to get best performance capabilities. People want pages, images, videos or other important files to load instantly and we want them in high quality.
+
+Goal of the work: Analyze IPFS DFS, its operating principles, advantages, test performance of IPFS by creating a few IPFS nodes and measuring performance of downloading and uploading some data through IPFS system.
+
+\bigskip
+Tasks:
+\begin{itemize}
+    \item Define and analyze DFSs overall.
+    \item Define main components of IPFS system.
+	\item Analyze IPFS system architecturally.
+	\item Launch IPFS and measure performance.
+\end{itemize}
+

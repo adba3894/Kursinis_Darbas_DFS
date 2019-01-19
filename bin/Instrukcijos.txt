@@ -1,0 +1,21 @@
+Instrukcijos skripto paleidimui:
+
+1. Sugeneruoti savo UNIX sistemos ssh rakta ir ji ikelti i open nebula (terminale ssh-keygen komanda, rakta ikelti einant i https://grid5.mif.vu.lt/cloud3/one/ - settings - iklijuoti i "Public SSH Key laukeli).
+
+2. Open Nebula'oje sukurti virtualia masina pasirenkant 138 template (ubuntu-16.04).
+
+3. prisijungti per terminala prie virtualios masinos (nukopijuojant CONNECT_INFO1 laukeli ir paleidziant ji per fizines masinos terminala)
+
+4. Joje instaliuoti git sistema - (sudo apt update; sudo apt install git).
+
+5. Komanda - "git clone https://github.com/adba3894/SkriptukasIPFS" ir paleisti test.sh skriptuka.(skriptukas paleis virtualias masinas)
+
+6. Grizti i fizine masina ir joje paleisti skripta IPFSinstall.sh (sis skriptas irasys IPFS sistema i kiekviena masina).
+
+P.S pries tai tame skripte  iklijuoti CONNECT_INFO1 laukelius kiekvienos sukurtos masinos. (veliau si dalyka bandysiu automatizuoti)
+
+7. Paleisti skripta pavadinimu initAndDaemon.sh
+
+8. Vykdyti norima testa, ivedant prasomus duomenis. 
+
+9. Testo rezultatai isspausdinami terminale.
